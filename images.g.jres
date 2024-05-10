@@ -9,6 +9,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage"
     },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAADAwAAAAAAAAMzMDAAAAAAAzMwMAAAAAMDMzMAAAAAAwMzMwAAAAADAzMzMAAAAAMDMwMwAAAAAwMDMzAAAAADAwMzAAAAAAMDAzMwAAAAAAMzADAAAAAAAzMwAAAAAAAAAzAwAAAAAAADAAAAAAAAAAAAMAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
