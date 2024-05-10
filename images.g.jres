@@ -14,6 +14,21 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage0"
     },
+    "image4": {
+        "data": "hwQQABAAAADu7u7u7u7u7unp6enp6enpmZmZmZmZmZmZkZnpmZGZ6RmZmekZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZnpmZkZ6ZmZGemZmZHpmZmR6ZmZmZmZmZmZ6enp6enp6enu7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Clocktower INT"
+    },
+    "image5": {
+        "data": "hwQQABAAAADu7u7u7u7u7unp6enp6e7umZmZmZmZ7u6ZkZnpmZHp7hmZmekZmenumZmZ6ZmZme6ZmZnpmZmZ7pmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZ7pmZmemZmZnumZkZ6ZkZ6e6ZmZHpmZHp7pmZmZmZme7u6enp6enp7u7u7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Clocktower BTM"
+    },
+    "image6": {
+        "data": "hwQQABAAAADu7u7u7u7u7u7u7lVV7u7u7u5VVVVV7p7uXlVVVVXlnu5e/19VVeXu7lX/VVX/X+7uVV9fVfVf7l5VVfX/X1/lXlVV9f9VVeXuVVVVVVVV7u5VVVVVVVXu7l5VVVVV5e7uXlVVVVXlnu7uVVVVVe6e7u7uVVXu7u7u7u7u7u7u7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ClockTower TOP"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",

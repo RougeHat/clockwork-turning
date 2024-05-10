@@ -76,6 +76,63 @@ namespace myImages {
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `;
+            case "image4":
+            case "Clocktower INT":return img`
+e 9 9 9 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 9 1 9 9 9 9 9 9 9 9 9 e e 
+e 9 9 1 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 9 9 9 9 9 9 9 9 9 9 9 e e 
+e 9 9 9 9 9 9 9 9 9 9 9 1 9 9 e 
+e e 9 9 9 9 9 9 9 9 9 1 9 9 e e 
+e 9 9 9 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 e e e e e e e e e e 9 e e 
+e 9 9 9 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 9 1 9 9 9 9 9 9 9 9 9 e e 
+e 9 9 1 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 9 9 9 9 9 9 9 9 9 9 9 e e 
+e 9 9 9 9 9 9 9 9 9 9 9 1 9 9 e 
+e e 9 9 9 9 9 9 9 9 9 1 9 9 e e 
+e 9 9 9 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 e e e e e e e e e e 9 e e 
+`;
+            case "image5":
+            case "Clocktower BTM":return img`
+e 9 9 9 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 9 1 9 9 9 9 9 9 9 9 9 e e 
+e 9 9 1 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 9 9 9 9 9 9 9 9 9 9 9 e e 
+e 9 9 9 9 9 9 9 9 9 9 9 1 9 9 e 
+e e 9 9 9 9 9 9 9 9 9 1 9 9 e e 
+e 9 9 9 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 e e e e e e e e e e 9 e e 
+e 9 9 9 9 9 9 9 9 9 9 9 9 9 9 e 
+e e 9 9 1 9 9 9 9 9 9 9 9 9 e e 
+e 9 9 1 9 9 9 9 9 9 9 9 1 9 9 e 
+e e 9 9 9 9 9 9 9 9 9 1 9 9 e e 
+e e e 9 9 9 9 9 9 9 9 9 9 e e e 
+e e e e e 9 9 9 9 9 9 e e e e e 
+e e e e e e e 9 9 e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`;
+            case "image6":
+            case "ClockTower TOP":return img`
+e e e e e e e e e e e e e e e e 
+e e e e e e e 5 5 e e e e e e e 
+e e e e e 5 5 5 5 5 5 e e e e e 
+e e e 5 5 5 5 5 5 5 5 5 5 e e e 
+e e 5 5 f f f 5 5 5 5 5 5 5 e e 
+e e 5 5 f f 5 5 5 5 5 5 5 5 e e 
+e 5 5 5 f 5 f 5 5 5 5 5 5 5 5 e 
+e 5 5 5 5 5 5 f f 5 5 5 5 5 5 e 
+e 5 5 5 5 5 5 f f 5 5 5 5 5 5 e 
+e 5 5 5 5 5 5 f f 5 5 5 5 5 5 e 
+e e 5 5 5 f 5 f 5 5 5 5 5 5 e e 
+e e 5 5 5 f f 5 5 5 5 5 5 5 e e 
+e e e 5 5 f f f 5 5 5 5 5 e e e 
+e e e e e 5 5 5 5 5 5 e e e e e 
+e e e e e e e 5 5 e e e e e e e 
+e e 9 9 e e e e e e e e 9 9 e e 
+`;
         }
         return null;
     })
