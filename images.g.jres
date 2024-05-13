@@ -19,6 +19,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "ClockTower TOP"
     },
+    "image2": {
+        "data": "hwQQAGQAAADu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7gAA7u7uVVXu7u7p6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp7u4AAO7uVVVVVe6emZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZme7uAADuXlVVVVXlnpmRmemZkZnpmZGZ6ZmRmemZkZnpmZGZ6ZmRmemZkZnpmZGZkZnpmZHp7gAA7l7/X1VV5e4ZmZnpGZmZ6RmZmekZmZnpGZmZ6RmZmekZmZnpGZmZ6RmZGZmZ6RmZ6e4AAO5V/1VV/1/umZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZmZmemZmZnuAADuVV9fVfVf7pmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZmZnpmZmZ7gAAXlVV9f9fX+WZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmZmZ6ZmZmekAAF5VVfX/VVXlmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZmZmemZmZnpAADuVVVVVVVV7pmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZmZnpmZmZ7gAA7lVVVVVVVe6ZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmemZmZnpmZmZ6ZmZmZmZ6ZmZme4AAO5eVVVVVeXumZkZ6ZmZGemZmRnpmZkZ6ZmZGemZmRnpmZkZ6ZmZGemZmZmZGemZGenuAADuXlVVVVXlnpmZkemZmZHpmZmR6ZmZkemZmZHpmZmR6ZmZkemZmZHpmZmZmZHpmZHp7gAA7u5VVVVV7p6ZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZ7u4AAO7u7lVV7u7u6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6enp6e7uAADu7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7u7gAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ClockTower"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
