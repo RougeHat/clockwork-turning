@@ -198,6 +198,41 @@ eeeee999999eeeee
 eeeeeee99eeeeeee
 eeeeeeeeeeeeeeee
 `;
+            case "image3":
+            case "Turret":return img`
+................................
+................................
+................................
+.......................22.......
+......................2242......
+......................2422......
+......................ffff......
+....................ffffffffffff
+....................fbbbbbbfbbbb
+...................fbbbbbbbfbbbb
+....ffffffffffffffffbbbbbbbfbbbb
+....fdddddddddddddfbbbbffffffbbb
+....fddddddddffffdfbbbbfd555fbbb
+....fdddddddddddddfbbbbffffffbbb
+.....ffffffffffffffbbbbfd555fbbb
+.......fddddddddddfbbbbffffffbbb
+.......fddddddddddfbbbbfd555fbbb
+.......fddddddddddfbbbbffffffbbb
+........fffffffffffbbbbfd555fbbb
+.............ff444fbbbbffffffbbb
+............ff4444fbbbbfd555fbbb
+...........ff4444f4fbbbffffffbbb
+............ff44f.ffbbbfd555fbbb
+.............f444f44fbbffffffbbb
+............fff444444fbfd555ffff
+.............f.ff44ff.fffffffbbb
+...............f.ff.f..fd555fbbb
+..................f....ffffffbbb
+.......................fd555ffff
+.......................ffffff...
+.......................fd555f...
+.......................ffffff...
+`;
         }
         return null;
     })
